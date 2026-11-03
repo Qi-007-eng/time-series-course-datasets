@@ -1,0 +1,9 @@
+series_id,variable,start,end,length,has_nan
+T1,temperature,2010-01-01,2021-06-01,100057,False
+T2,dewpoint_temperature,2010-01-01,2021-06-01,100057,False
+T3,wind_speed,2010-01-01,2021-06-01,100057,False
+T4,mean_sea_level_pressure,2010-01-01,2021-06-01,100057,False
+T5,relative_humidity,2010-01-01,2021-06-01,100057,False
+T6,surface_solar_radiation,2010-01-01,2021-06-01,100057,False
+T7,surface_thermal_radiation,2010-01-01,2021-06-01,100057,False
+T8,total_cloud_cover,2010-01-01,2021-06-01,100057,False
